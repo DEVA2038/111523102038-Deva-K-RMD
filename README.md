@@ -4,8 +4,6 @@
 
 A RESTful API built using Spring Boot and MongoDB to manage recipe data.
 
----
-
 ## Project Description
 
 This application:
@@ -17,5 +15,5 @@ This application:
 - Automatically calculates total_time (prep_time + cook_time)
 - Prevents duplicate data loading on restart
 
----
+
 
